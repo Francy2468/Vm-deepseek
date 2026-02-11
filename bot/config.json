@@ -1,0 +1,12 @@
+{
+    "token": "PONÉ_ACÁ_TU_TOKEN_DE_DISCORD",
+    "prefix": "!vm",
+    "mode": "production",
+    "antitamper": true,
+    "polymorphism": true,
+    "controlflow": true,
+    "maxThreads": 10,
+    "memoryLimit": 512,
+    "timeout": 30000,
+    "version": "3.0.0"
+}
