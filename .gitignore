@@ -1,0 +1,37 @@
+# Dependencias
+node_modules/
+package-lock.json
+npm-debug.log
+
+# Archivos temporales
+*.tmp
+*.log
+*.cache
+/tmp/
+temp/
+
+# Configuración personal
+bot/config.local.json
+*.env
+.vscode/
+.idea/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Bytecode generado
+*.out
+*.bc
+*.so
+*.dll
+
+# Logs de VM
+vm_logs/
+crash_dumps/
+
+# Token de Discord (NUNCA subir)
+*_token*
+*_secret*
+*_key*
